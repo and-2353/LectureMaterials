@@ -1,0 +1,19 @@
+・format関数, f-strings	printがスマートになる
+・アノテーション（少し触れた)
+・コードの整形
+・辞書(dict)型
+・関数のデフォルト値, 引数指定
+・リスト内包表記
+・with文
+・all, any関数
+・ラムダ式
+・try-except 文
+・is, not
+・as
+・スライス
+・zip関数
+・enumerate関数
+
+・numpy, pandas
+・tkinter
+・ビット演算子
